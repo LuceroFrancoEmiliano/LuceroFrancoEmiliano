@@ -6,11 +6,8 @@
 
 Me defino como un desarrollador apasionado y un **eterno aprendiz**. Mi curiosidad no tiene límites: disfruto tanto entendiendo cómo gestiona la memoria un programa en C, como creando experiencias de usuario fluidas con Next.js.
 
-### 💡 Sobre mí
-
-* 🌱 **Formación Continua:** Creo firmemente que en tecnología nunca se termina de aprender. Siempre estoy buscando nuevos cursos, documentación o desafíos para mejorar mis habilidades.
-* 🧠 **Perfil Híbrido:** Mi carrera me da la lógica dura y la arquitectura (Bases de datos, Algoritmos), mientras que mis proyectos personales me dan la agilidad del desarrollo web moderno.
-* 🎯 **Objetivo:** Busco crecer profesionalmente en entornos donde pueda aportar soluciones eficientes, trabajar en equipo y, sobre todo, seguir absorbiendo conocimiento.
+Creo firmemente que en tecnología nunca se termina de aprender. Siempre estoy buscando nuevos cursos, documentación o desafíos para mejorar mis habilidades.
+Busco crecer profesionalmente en entornos donde pueda aportar soluciones eficientes, trabajar en equipo y, sobre todo, seguir absorbiendo conocimiento.
 
 ---
 
