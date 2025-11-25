@@ -2,7 +2,15 @@
 
 ### 🚀 Estudiante de Ingeniería en Sistemas | Full Stack Developer
 
-Soy estudiante de 3er año de Ingeniería en Sistemas. Mi enfoque combina la base sólida de la ingeniería (algoritmos, arquitectura y manejo de memoria) con la agilidad del desarrollo web moderno. Disfruto construyendo soluciones que no solo se ven bien, sino que están optimizadas desde el backend.
+¡Bienvenido a mi perfil! Actualmente estoy cursando el **3er año de Ingeniería en Sistemas**.
+
+Me defino como un desarrollador apasionado y un **eterno aprendiz**. Mi curiosidad no tiene límites: disfruto tanto entendiendo cómo gestiona la memoria un programa en C, como creando experiencias de usuario fluidas con Next.js.
+
+### 💡 Sobre mí
+
+* 🌱 **Formación Continua:** Creo firmemente que en tecnología nunca se termina de aprender. Siempre estoy buscando nuevos cursos, documentación o desafíos para mejorar mis habilidades.
+* 🧠 **Perfil Híbrido:** Mi carrera me da la lógica dura y la arquitectura (Bases de datos, Algoritmos), mientras que mis proyectos personales me dan la agilidad del desarrollo web moderno.
+* 🎯 **Objetivo:** Busco crecer profesionalmente en entornos donde pueda aportar soluciones eficientes, trabajar en equipo y, sobre todo, seguir absorbiendo conocimiento.
 
 ---
 
@@ -21,7 +29,8 @@ Soy estudiante de 3er año de Ingeniería en Sistemas. Mi enfoque combina la bas
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Datos & Bases de Datos**
+**Bases de Datos**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
