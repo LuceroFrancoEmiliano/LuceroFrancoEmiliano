@@ -40,7 +40,3 @@ Me defino como un desarrollador apasionado y un **eterno aprendiz**. Mi curiosid
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuceroFrancoEmiliano&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Franco" />
-</div>
